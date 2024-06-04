@@ -235,7 +235,7 @@ lib
 1. **Клонирование репозитория:** Откройте терминал и выполните следующую команду для клонирования проекта
    репозиторий:
 
-   ``bash
+  ```bash
    git clone https://github.com/Iamzaryab/Movie-Application-Flutter-Clean-Architecture.git
 2. Создайте файл `.env` в корневом каталоге проекта. Добавьте следующие строки,
    заменив `ADD YOUR API KEY` на ваш реальный ключ API. Вы можете сгенерировать свой API-ключ
@@ -247,14 +247,14 @@ lib
    ```
 
 3. Установите зависимости проекта:
-   ``bash
+  ```bash
    flutter get pub
    ```
 4. Сгенерируйте необходимый код с помощью `build_runner`:
-   ``bash
+  ```bash
    flutter pub run build_runner build --delete-conflicting-outputs
-   теперь вы готовы запускать код
    ```
+ теперь вы готовы запускать код
 
   
 
