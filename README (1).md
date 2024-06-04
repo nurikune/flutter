@@ -235,11 +235,13 @@ lib
 1. **Клонирование репозитория:** Откройте терминал и выполните следующую команду для клонирования проекта
    репозиторий:
 
-  ```bash
+  
+   ```bash
    git clone https://github.com/Iamzaryab/Movie-Application-Flutter-Clean-Architecture.git
-2. Создайте файл `.env` в корневом каталоге проекта. Добавьте следующие строки,
-   заменив `ADD YOUR API KEY` на ваш реальный ключ API. Вы можете сгенерировать свой API-ключ
-   из [здесь](https://www.themoviedb.org/settings/api):
+2. Create a `.env` file in the root directory of the project. Add the following lines,
+   replacing `ADD YOUR API KEY` with your actual API key. You can generate your API key
+   from [here](https://www.themoviedb.org/settings/api):
+
 
    ```
    BASE_URL=https://api.themoviedb.org/3/
