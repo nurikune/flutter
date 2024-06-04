@@ -237,7 +237,7 @@ lib
 
   
    ```bash
-   git clone https://github.com/Iamzaryab/Movie-Application-Flutter-Clean-Architecture.git
+   git clone https://github.com/nurikune/flutter.git
 2. Create a `.env` file in the root directory of the project. Add the following lines,
    replacing `ADD YOUR API KEY` with your actual API key. You can generate your API key
    from [here](https://www.themoviedb.org/settings/api):
