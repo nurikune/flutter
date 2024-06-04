@@ -9,7 +9,7 @@
 Функциональное программирование Библиотека Dartz интегрирована для введения концепций функционального программирования, что приводит к более Предсказуемый и выразительный код.
 
 Другие библиотеки flutter_svg для загрузки SVG-изображений. equatable для эффективного сравнения классов. go_router для обработки маршрутизации приложений. cached_network_image для кэширования изображений. flutter_dotenv для управления переменными среды.
-### Folder Structure
+### Структура папок
 
 ```
 lib
@@ -238,9 +238,9 @@ lib
   
    ```bash
    git clone https://github.com/nurikune/flutter.git
-2. Create a `.env` file in the root directory of the project. Add the following lines,
-   replacing `ADD YOUR API KEY` with your actual API key. You can generate your API key
-   from [here](https://www.themoviedb.org/settings/api):
+2. Создайте файл `.env` в корневом каталоге проекта. Добавьте следующие строки,
+   заменив `ADD YOUR API KEY` на ваш реальный ключ API. Вы можете сгенерировать свой API-ключ
+   из [здесь](https://www.themoviedb.org/settings/api):
 
 
    ```
