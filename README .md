@@ -231,7 +231,7 @@ lib
         │ └── skeleton.dart
         └── swipe_to_dismiss_wrap.dart
 ```
-
+**Только на macOS**
 1. **Клонирование репозитория:** Откройте терминал и выполните следующую команду для клонирования проекта
    репозиторий:
 
@@ -256,10 +256,7 @@ lib
   ```bash
    flutter pub run build_runner build --delete-conflicting-outputs
    ```
- теперь вы готовы запускать код
+ 5. Tеперь вы готовы запускать код 
 
   
 
-Experience the world of movies with the Flutter Movie Application! If you encounter issues or have
-suggestions, please feel free to create an issue on the GitHub repository. Enjoy exploring and
-watching movies with this versatile and feature-rich application!
